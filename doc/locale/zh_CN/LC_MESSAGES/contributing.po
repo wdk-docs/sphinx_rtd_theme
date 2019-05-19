@@ -1,0 +1,130 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Dave Snider, Read the Docs, Inc. & contributors
+# This file is distributed under the same license as the Read the Docs
+# Sphinx Theme package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Read the Docs Sphinx Theme 0.4.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-19 17:49+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../contributing.rst:4
+msgid "Contributing or modifying the theme"
+msgstr "贡献或修改主题"
+
+#: ../../contributing.rst:6
+msgid ""
+"The sphinx_rtd_theme is primarily a sass_ project that requires a few "
+"other sass libraries. I'm using bower_ to manage these dependencies and "
+"sass_ to build the css. The good news is I have a very nice set of grunt_"
+" operations that will not only load these dependencies, but watch for "
+"changes, rebuild the sphinx demo docs and build a distributable version "
+"of the theme. The bad news is this means you'll need to set up your "
+"environment similar to that of a front-end developer (vs. that of a "
+"python developer). That means installing node and ruby."
+msgstr ""
+
+#: ../../contributing.rst:15
+msgid ""
+"If you are unsure of appropriate actions to take while interacting with "
+"our community please read our :doc:`Code of Conduct <rtd:code-of-"
+"conduct>`."
+msgstr ""
+
+#: ../../contributing.rst:20
+msgid "Set up your environment"
+msgstr "设置您的环境"
+
+#: ../../contributing.rst:22
+msgid "Install sphinx_ into a virtual environment."
+msgstr "将 sphinx_ 安装到虚拟环境中。"
+
+#: ../../contributing.rst:28
+msgid "Install sass."
+msgstr "Install sass."
+
+#: ../../contributing.rst:34
+msgid "Install node, bower, grunt, and theme dependencies."
+msgstr "安装节点，bower，grunt和主题依赖项。"
+
+#: ../../contributing.rst:47
+msgid ""
+"Now that our environment is set up, make sure you're in your virtual "
+"environment, go to this repository in your terminal and run grunt:"
+msgstr ""
+
+#: ../../contributing.rst:54
+msgid ""
+"This default task will do the following **very cool things that make it "
+"worth the trouble**:"
+msgstr ""
+
+#: ../../contributing.rst:56
+msgid "Install and update any bower dependencies."
+msgstr "安装和更新任何bower依赖项。"
+
+#: ../../contributing.rst:57
+msgid "Run sphinx and build new docs."
+msgstr "Run sphinx and build new docs."
+
+#: ../../contributing.rst:58
+msgid "Watch for changes to the sass files and build css from the changes."
+msgstr "观察sass文件的更改并根据更改构建css。"
+
+#: ../../contributing.rst:59
+msgid ""
+"Rebuild the sphinx docs anytime it notices a change to ``.rst``, "
+"``.html``, ``.js`` or ``.css`` files."
+msgstr ""
+
+#: ../../contributing.rst:71
+msgid "Releasing the Theme"
+msgstr "发布主题"
+
+#: ../../contributing.rst:73
+msgid "When you release a new version, you should do the following:"
+msgstr "发布新版本时，应执行以下操作："
+
+#: ../../contributing.rst:76
+msgid ""
+"Bump the version in ``sphinx_rtd_theme/__init__.py``, ``bower.json`` and "
+"``package.json`` -- we try to follow `semver <http://semver.org/>`_, so "
+"be careful with breaking changes."
+msgstr ""
+
+#: ../../contributing.rst:78
+msgid ""
+"Update the changelog (``docs/changelog.rst``) with the version "
+"information."
+msgstr ""
+
+#: ../../contributing.rst:79
+msgid "Run a ``grunt build`` to rebuild all the theme assets."
+msgstr "运行``grunt build``来重建所有主题资源。"
+
+#: ../../contributing.rst:80
+msgid "Commit that change."
+msgstr "承诺改变。"
+
+#: ../../contributing.rst:81
+msgid "Tag the release in git: ``git tag $NEW_VERSION``."
+msgstr "在git中标记发行版：``git tag $ NEW_VERSION``。"
+
+#: ../../contributing.rst:82
+msgid "Push the tag to GitHub: ``git push --tags origin``."
+msgstr "将标签推送到GitHub：``git push --tags origin``。"
+
+#: ../../contributing.rst:83
+msgid "Upload the package to PyPI:"
+msgstr "将包上传到PyPI："
+

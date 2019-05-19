@@ -1,0 +1,664 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Dave Snider, Read the Docs, Inc. & contributors
+# This file is distributed under the same license as the Read the Docs
+# Sphinx Theme package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Read the Docs Sphinx Theme 0.4.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-19 17:49+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../demo/lists_tables.rst:4
+msgid "Lists & Tables"
+msgstr "列表和表格"
+
+#: ../../demo/lists_tables.rst:6
+msgid "Table of Contents"
+msgstr "目录"
+
+#: ../../demo/lists_tables.rst:9
+msgid "Lists"
+msgstr "Lists"
+
+#: ../../demo/lists_tables.rst:12
+msgid "Enumerated Lists"
+msgstr "枚举列表"
+
+#: ../../demo/lists_tables.rst:14
+msgid "Arabic numerals."
+msgstr "阿拉伯数字. "
+
+#: ../../demo/lists_tables.rst:16
+msgid "lower alpha)"
+msgstr "小写α字)"
+
+#: ../../demo/lists_tables.rst:18
+msgid "(lower roman)"
+msgstr "(小写罗马字)"
+
+#: ../../demo/lists_tables.rst:20
+msgid "upper alpha."
+msgstr "大写α字."
+
+#: ../../demo/lists_tables.rst:22
+msgid "upper roman)"
+msgstr "大写罗马字)"
+
+#: ../../demo/lists_tables.rst:24
+msgid "Lists that don't start at 1:"
+msgstr "列表不是从1开始:"
+
+#: ../../demo/lists_tables.rst:26
+msgid "Three"
+msgstr "Three"
+
+#: ../../demo/lists_tables.rst:28
+msgid "Four"
+msgstr "Four"
+
+#: ../../demo/lists_tables.rst:30
+msgid "C"
+msgstr "C"
+
+#: ../../demo/lists_tables.rst:32
+msgid "D"
+msgstr "D"
+
+#: ../../demo/lists_tables.rst:34
+msgid "iii"
+msgstr "iii"
+
+#: ../../demo/lists_tables.rst:36
+msgid "iv"
+msgstr "iv"
+
+#: ../../demo/lists_tables.rst:38
+msgid "List items may also be auto-enumerated."
+msgstr "列表项也可以自动枚举. "
+
+#: ../../demo/lists_tables.rst:41
+msgid "Definition Lists"
+msgstr "定义列表"
+
+#: ../../demo/lists_tables.rst:43 ../../demo/lists_tables.rst:47
+#: ../../demo/lists_tables.rst:51
+msgid "Term"
+msgstr "术语"
+
+#: ../../demo/lists_tables.rst:44 ../../demo/lists_tables.rst:50
+msgid "Definition"
+msgstr "定义"
+
+#: ../../demo/lists_tables.rst:46
+msgid "classifier"
+msgstr "分类"
+
+#: ../../demo/lists_tables.rst:46
+msgid "Definition paragraph 1."
+msgstr "定义第1段. "
+
+#: ../../demo/lists_tables.rst:48
+msgid "Definition paragraph 2."
+msgstr "定义第2段. "
+
+#: ../../demo/lists_tables.rst:54
+msgid "Option Lists"
+msgstr "选项列表"
+
+#: ../../demo/lists_tables.rst:56
+msgid "For listing command-line options:"
+msgstr "用于列出命令行选项:"
+
+#: ../../demo/lists_tables.rst:58
+msgid "command-line option \"a\""
+msgstr "命令行选项 \"a\""
+
+#: ../../demo/lists_tables.rst:59
+msgid "options can have arguments and long descriptions"
+msgstr "选项可以有参数和长描述"
+
+#: ../../demo/lists_tables.rst:61
+msgid "options can be long also"
+msgstr "选项也可以很长"
+
+#: ../../demo/lists_tables.rst:62
+msgid "long options can also have arguments"
+msgstr "长期权也可以有参数"
+
+#: ../../demo/lists_tables.rst:66
+msgid "The description can also start on the next line."
+msgstr "描述也可以从下一行开始. "
+
+#: ../../demo/lists_tables.rst:68
+msgid ""
+"The description may contain multiple body elements, regardless of where "
+"it starts."
+msgstr "描述可能包含多个body元素，无论它从何处开始. "
+
+#: ../../demo/lists_tables.rst:71
+msgid "Multiple options are an \"option group\"."
+msgstr "多个选项是“选项组”. "
+
+#: ../../demo/lists_tables.rst:72
+msgid "Commonly-seen: short & long options."
+msgstr "常见的：短期和长期期权. "
+
+#: ../../demo/lists_tables.rst:74
+msgid "Multiple options with arguments."
+msgstr "带参数的多个选项. "
+
+#: ../../demo/lists_tables.rst:75
+msgid "DOS/VMS-style options too"
+msgstr "DOS / VMS风格的选项也是如此"
+
+#: ../../demo/lists_tables.rst:77
+msgid "There must be at least two spaces between the option and the description."
+msgstr "选项和描述之间必须至少有两个空格. "
+
+#: ../../demo/lists_tables.rst:80
+msgid "Field list"
+msgstr "字段列表"
+
+#: ../../demo/lists_tables.rst
+msgid "Author"
+msgstr "作者"
+
+#: ../../demo/lists_tables.rst:84
+msgid "David Goodger"
+msgstr "David Goodger"
+
+#: ../../demo/lists_tables.rst
+msgid "Address"
+msgstr "地址"
+
+#: ../../demo/lists_tables.rst:85
+msgid "123 Example Street Example, EX  Canada A1B 2C3"
+msgstr "123示例街道示例，EX Canada A1B 2C3"
+
+#: ../../demo/lists_tables.rst
+msgid "Contact"
+msgstr "联系"
+
+#: ../../demo/lists_tables.rst:88
+msgid "docutils-develop@lists.sourceforge.net"
+msgstr "docutils-develop@lists.sourceforge.net"
+
+#: ../../demo/lists_tables.rst
+msgid "Authors"
+msgstr "作者"
+
+#: ../../demo/lists_tables.rst:89
+msgid "Me; Myself; I"
+msgstr "我;我;一世"
+
+#: ../../demo/lists_tables.rst
+msgid "organization"
+msgstr "组织"
+
+#: ../../demo/lists_tables.rst:90
+msgid "humankind"
+msgstr "humankind"
+
+#: ../../demo/lists_tables.rst
+msgid "date"
+msgstr "日期"
+
+#: ../../demo/lists_tables.rst:91
+msgid "$Date: 2012-01-03 19:23:53 +0000 (Tue, 03 Jan 2012) $"
+msgstr "$Date: 2012-01-03 19:23:53 +0000 (Tue, 03 Jan 2012) $"
+
+#: ../../demo/lists_tables.rst
+msgid "status"
+msgstr "状态"
+
+#: ../../demo/lists_tables.rst:92
+msgid "This is a \"work in progress\""
+msgstr "这是一个 \"工作正在进行中\""
+
+#: ../../demo/lists_tables.rst
+msgid "revision"
+msgstr "revision"
+
+#: ../../demo/lists_tables.rst:93
+msgid "$Revision: 7302 $"
+msgstr "$Revision: 7302 $"
+
+#: ../../demo/lists_tables.rst
+msgid "version"
+msgstr "版"
+
+#: ../../demo/lists_tables.rst:94
+msgid "1"
+msgstr "1"
+
+#: ../../demo/lists_tables.rst
+msgid "copyright"
+msgstr "版权"
+
+#: ../../demo/lists_tables.rst:95
+msgid ""
+"This document has been placed in the public domain. You may do with it as"
+" you wish. You may copy, modify, redistribute, reattribute, sell, buy, "
+"rent, lease, destroy, or improve it, quote it at length, excerpt, "
+"incorporate, collate, fold, staple, or mutilate it, or do anything else "
+"to it that your or anyone else's heart desires."
+msgstr "本文档已置于公共领域. 您可以随意使用它. 您可以复制，修改，再分发，重新分配，出售，购买，出租，租赁，销毁或改进它，详细引用，摘录，合并，整理，折叠，装订或毁坏它，或对它做任何其他事情. 你或任何其他人的心愿. "
+
+#: ../../demo/lists_tables.rst
+msgid "field name"
+msgstr "字段名称"
+
+#: ../../demo/lists_tables.rst:102
+msgid "This is a generic bibliographic field."
+msgstr "这是一个通用的书目领域. "
+
+#: ../../demo/lists_tables.rst
+msgid "field name 2"
+msgstr "字段名称2"
+
+#: ../../demo/lists_tables.rst:104
+msgid "Generic bibliographic fields may contain multiple body elements."
+msgstr "通用书目字段可能包含多个正文元素. “"
+
+#: ../../demo/lists_tables.rst:106
+msgid "Like this."
+msgstr "像这样. "
+
+#: ../../demo/lists_tables.rst
+msgid "Dedication"
+msgstr "贡献"
+
+#: ../../demo/lists_tables.rst:110
+msgid "For Docutils users & co-developers."
+msgstr "对于Docutils用户和共同开发者. "
+
+#: ../../demo/lists_tables.rst
+msgid "abstract"
+msgstr "抽象"
+
+#: ../../demo/lists_tables.rst:114
+msgid ""
+"This document is a demonstration of the reStructuredText markup language,"
+" containing examples of all basic reStructuredText constructs and many "
+"advanced constructs."
+msgstr "本文档演示了reStructuredText标记语言，其中包含所有基本reStructuredText构造和许多高级构造的示例. "
+
+#: ../../demo/lists_tables.rst:119
+msgid "Bullet Lists"
+msgstr "子弹列表"
+
+#: ../../demo/lists_tables.rst:121
+msgid "A bullet list"
+msgstr "子弹列表"
+
+#: ../../demo/lists_tables.rst:123 ../../demo/lists_tables.rst:130
+msgid "Nested bullet list."
+msgstr "嵌套项目符号列表. "
+
+#: ../../demo/lists_tables.rst:124 ../../demo/lists_tables.rst:131
+msgid "Nested item 2."
+msgstr "嵌套项目2. "
+
+#: ../../demo/lists_tables.rst:126 ../../demo/lists_tables.rst:134
+msgid "Item 2."
+msgstr "第2项. "
+
+#: ../../demo/lists_tables.rst:128
+msgid "Paragraph 2 of item 2."
+msgstr "第2项第2款. "
+
+#: ../../demo/lists_tables.rst:133
+msgid "Third level."
+msgstr "第三级. "
+
+#: ../../demo/lists_tables.rst:136
+msgid "Nested item 3."
+msgstr "嵌套项目3. "
+
+#: ../../demo/lists_tables.rst:138 ../../demo/lists_tables.rst:139
+#: ../../demo/lists_tables.rst:140
+msgid "``inline literall``"
+msgstr "``内联文字``"
+
+#: ../../demo/lists_tables.rst:143
+msgid "Second list level"
+msgstr "第二个列表级别"
+
+#: ../../demo/lists_tables.rst:145
+msgid "here is a list in a second-level section."
+msgstr "这是第二级部分的列表. "
+
+#: ../../demo/lists_tables.rst:146 ../../demo/lists_tables.rst:147
+#: ../../demo/lists_tables.rst:149 ../../demo/lists_tables.rst:161
+#: ../../demo/lists_tables.rst:174
+msgid "`yahoo <http://www.yahoo.com>`_"
+msgstr "`yahoo <http://www.yahoo.com>`_"
+
+#: ../../demo/lists_tables.rst:150
+msgid "here is an inner bullet ``oh``"
+msgstr "这是一个内部子弹 ``哦``"
+
+#: ../../demo/lists_tables.rst:152
+msgid "one more ``with an inline literally``. `yahoo <http://www.yahoo.com>`_"
+msgstr "还有一个 ``内联字面``.  `yahoo <http://www.yahoo.com>`_"
+
+#: ../../demo/lists_tables.rst:154
+msgid "heh heh. child. try to beat this embed:"
+msgstr "嘿嘿儿童. 试图击败这个嵌入:"
+
+#: ../../demo/lists_tables.rst:160
+msgid "and another. `yahoo <http://www.yahoo.com>`_"
+msgstr "和另一个. `yahoo <http://www.yahoo.com>`_"
+
+#: ../../demo/lists_tables.rst:162
+msgid "``hi``"
+msgstr "``hi``"
+
+#: ../../demo/lists_tables.rst:163
+msgid "and hehe"
+msgstr "和呵呵"
+
+#: ../../demo/lists_tables.rst:166
+msgid "But deeper down the rabbit hole"
+msgstr "但是深入兔子洞"
+
+#: ../../demo/lists_tables.rst:168
+msgid ""
+"I kept saying that, \"deeper down the rabbit hole\". `yahoo "
+"<http://www.yahoo.com>`_"
+msgstr "我一直这么说, \"兔子洞深处\". `yahoo <http://www.yahoo.com>`_"
+
+#: ../../demo/lists_tables.rst:170
+msgid "I cackle at night `yahoo <http://www.yahoo.com>`_."
+msgstr "我晚上咯咯笑 `yahoo <http://www.yahoo.com>`_."
+
+#: ../../demo/lists_tables.rst:171
+msgid "I'm so lonely here in GZ ``guangzhou``"
+msgstr "我在GZ ``guangzhou`` 这里很孤单"
+
+#: ../../demo/lists_tables.rst:172
+msgid "A man of python destiny, hopes and dreams. `yahoo <http://www.yahoo.com>`_"
+msgstr "一个蟒蛇命运，希望和梦想的人.  `yahoo <http://www.yahoo.com>`_"
+
+#: ../../demo/lists_tables.rst:176
+msgid "`yahoo <http://www.yahoo.com>`_ ``hi``"
+msgstr "`yahoo <http://www.yahoo.com>`_ ``hi``"
+
+#: ../../demo/lists_tables.rst:177
+msgid "``destiny``"
+msgstr "``destiny``"
+
+#: ../../demo/lists_tables.rst:180
+msgid "Hlists"
+msgstr "Hlists"
+
+#: ../../demo/lists_tables.rst:185
+msgid "First item"
+msgstr "第一项"
+
+#: ../../demo/lists_tables.rst:186
+msgid "Second item"
+msgstr "第二项"
+
+#: ../../demo/lists_tables.rst:187
+msgid "Third item"
+msgstr "第三项"
+
+#: ../../demo/lists_tables.rst:188
+msgid "Forth item"
+msgstr "第四项"
+
+#: ../../demo/lists_tables.rst:189
+msgid "Fifth item"
+msgstr "第五项"
+
+#: ../../demo/lists_tables.rst:190
+msgid "Sixths item"
+msgstr "第六项"
+
+#: ../../demo/lists_tables.rst:193
+msgid "Hlist with images"
+msgstr "Hlist与图像"
+
+#: ../../demo/lists_tables.rst:199 ../../demo/lists_tables.rst:297
+msgid "This is a short caption for a figure."
+msgstr "这是一个数字的简短标题. "
+
+#: ../../demo/lists_tables.rst:203 ../../demo/lists_tables.rst:301
+msgid ""
+"This is a long caption for a figure. Lorem ipsum dolor sit amet, "
+"consectetur adipiscing elit. Donec porttitor dolor in odio posuere, vitae"
+" ornare libero mattis. In lobortis justo vestibulum nibh aliquet, non."
+msgstr "这是一个身材很长的标题.  Lorem存有悲坐阿梅德，consectetur adipiscing ELIT.  Donec porttitor悲在奥迪奥得力士奥奇，简历ornare自由人马蒂斯. 在纸箱生产NIBH只是坐在那里. "
+
+#: ../../demo/lists_tables.rst:207
+msgid "Numbered List"
+msgstr "编号清单"
+
+#: ../../demo/lists_tables.rst:209
+msgid "One,"
+msgstr "One,"
+
+#: ../../demo/lists_tables.rst:210
+msgid "Two."
+msgstr "Two."
+
+#: ../../demo/lists_tables.rst:211
+msgid ""
+"Three with long text. Lorem ipsum dolor sit amet, consectetur adipiscing "
+"elit. Sed feugiat sagittis neque quis eleifend. Duis rutrum lectus sit "
+"amet mattis suscipit."
+msgstr "三长文本.  Lorem存有悲坐阿梅德，consectetur adipiscing ELIT. 桑达feugiat sagittis预期值，也QUIS eleifend. 作业化妆毕业胡萝卜很多令人兴奋的. "
+
+#: ../../demo/lists_tables.rst:214
+msgid "Using bullets and letters. (A)"
+msgstr "使用子弹和字母.  (A)"
+
+#: ../../demo/lists_tables.rst:215
+msgid "Using bullets and letters. (B)"
+msgstr "使用子弹和字母.  (B)"
+
+#: ../../demo/lists_tables.rst:216
+msgid "Using bullets and letters. (C)"
+msgstr "使用子弹和字母.  (C)"
+
+#: ../../demo/lists_tables.rst:219
+msgid "Tables"
+msgstr "表"
+
+#: ../../demo/lists_tables.rst:222
+msgid "Grid Tables"
+msgstr "网格表"
+
+#: ../../demo/lists_tables.rst:224
+msgid "Here's a grid table followed by a simple table:"
+msgstr "这是一个网格表，后跟一个简单的表:"
+
+#: ../../demo/lists_tables.rst:227
+msgid "Header row, column 1 (header rows optional)"
+msgstr "标题行，第1列（标题行可选）"
+
+#: ../../demo/lists_tables.rst:227 ../../demo/lists_tables.rst:257
+#: ../../demo/lists_tables.rst:278
+msgid "Header 2"
+msgstr "头 2"
+
+#: ../../demo/lists_tables.rst:227 ../../demo/lists_tables.rst:257
+msgid "Header 3"
+msgstr "头 3"
+
+#: ../../demo/lists_tables.rst:227
+msgid "Header 4"
+msgstr "头 4"
+
+#: ../../demo/lists_tables.rst:230
+msgid "body row 1, column 1"
+msgstr "第1列，第1列"
+
+#: ../../demo/lists_tables.rst:230 ../../demo/lists_tables.rst:259
+#: ../../demo/lists_tables.rst:261 ../../demo/lists_tables.rst:263
+#: ../../demo/lists_tables.rst:265
+msgid "column 2"
+msgstr "列 2"
+
+#: ../../demo/lists_tables.rst:230 ../../demo/lists_tables.rst:259
+#: ../../demo/lists_tables.rst:261 ../../demo/lists_tables.rst:263
+#: ../../demo/lists_tables.rst:265
+msgid "column 3"
+msgstr "列 3"
+
+#: ../../demo/lists_tables.rst:230
+msgid "column 4"
+msgstr "列 4"
+
+#: ../../demo/lists_tables.rst:232
+msgid "body row 2"
+msgstr "主体行 2"
+
+#: ../../demo/lists_tables.rst:232
+msgid "Cells may span columns."
+msgstr "单元格可以跨越列. "
+
+#: ../../demo/lists_tables.rst:234
+msgid "body row 3"
+msgstr "主体行 3"
+
+#: ../../demo/lists_tables.rst:234
+msgid "Cells may span rows."
+msgstr "单元格可以跨行. "
+
+#: ../../demo/lists_tables.rst:234
+msgid "Table cells"
+msgstr "表格细胞"
+
+#: ../../demo/lists_tables.rst:235
+msgid "contain"
+msgstr "contain"
+
+#: ../../demo/lists_tables.rst:236
+msgid "body elements."
+msgstr "主体元素."
+
+#: ../../demo/lists_tables.rst:236
+msgid "body row 4"
+msgstr "主体行 4"
+
+#: ../../demo/lists_tables.rst:238
+msgid "body row 5"
+msgstr "主体行 5"
+
+#: ../../demo/lists_tables.rst:238
+msgid "Cells may also be empty: ``-->``"
+msgstr "表格细胞: ``-->``"
+
+#: ../../demo/lists_tables.rst:243
+msgid "Inputs"
+msgstr "输入"
+
+#: ../../demo/lists_tables.rst:243
+msgid "Output"
+msgstr "输出"
+
+#: ../../demo/lists_tables.rst:245
+msgid "A"
+msgstr "A"
+
+#: ../../demo/lists_tables.rst:245
+msgid "B"
+msgstr "B"
+
+#: ../../demo/lists_tables.rst:245
+msgid "A or B"
+msgstr "A or B"
+
+#: ../../demo/lists_tables.rst:247 ../../demo/lists_tables.rst:248
+#: ../../demo/lists_tables.rst:249
+msgid "False"
+msgstr "False"
+
+#: ../../demo/lists_tables.rst:248 ../../demo/lists_tables.rst:249
+#: ../../demo/lists_tables.rst:250
+msgid "True"
+msgstr "True"
+
+#: ../../demo/lists_tables.rst:254
+msgid "Giant Tables"
+msgstr "巨人表"
+
+#: ../../demo/lists_tables.rst:257 ../../demo/lists_tables.rst:277
+msgid "Header 1"
+msgstr "头 1"
+
+#: ../../demo/lists_tables.rst:259 ../../demo/lists_tables.rst:261
+#: ../../demo/lists_tables.rst:263 ../../demo/lists_tables.rst:265
+msgid "body row 1"
+msgstr "主体行 1"
+
+#: ../../demo/lists_tables.rst:269
+msgid "List Tables"
+msgstr "列表"
+
+#: ../../demo/lists_tables.rst:271
+msgid "List tables can have captions like this one."
+msgstr "列表可以有像这样的标题. "
+
+#: ../../demo/lists_tables.rst:276
+msgid "List table"
+msgstr "列表"
+
+#: ../../demo/lists_tables.rst:279
+msgid ""
+"Header 3 long. Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+"Nam sit amet mauris arcu."
+msgstr "3长标题.  Lorem存有悲坐阿梅德，consectetur adipiscing ELIT. 南坐阿梅德mauris arcu. "
+
+#: ../../demo/lists_tables.rst:280
+msgid "Stub Row 1"
+msgstr "根行 1"
+
+#: ../../demo/lists_tables.rst:281
+msgid "Row 1"
+msgstr "行 1"
+
+#: ../../demo/lists_tables.rst:282 ../../demo/lists_tables.rst:286
+#: ../../demo/lists_tables.rst:290
+msgid "Column 2"
+msgstr "列 2"
+
+#: ../../demo/lists_tables.rst:283 ../../demo/lists_tables.rst:287
+#: ../../demo/lists_tables.rst:291
+msgid ""
+"Column 3 long. Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+"Nam sit amet mauris arcu."
+msgstr "第3列长.  Lorem存有悲坐阿梅德，consectetur adipiscing ELIT. 南坐阿梅德mauris arcu. "
+
+#: ../../demo/lists_tables.rst:284
+msgid "Stub Row 2"
+msgstr "根行 2"
+
+#: ../../demo/lists_tables.rst:285
+msgid "Row 2"
+msgstr "行 2"
+
+#: ../../demo/lists_tables.rst:288
+msgid "Stub Row 3"
+msgstr "根行 3"
+
+#: ../../demo/lists_tables.rst:289
+msgid "Row 3"
+msgstr "行 3"
+
+#: ../../demo/lists_tables.rst:293
+msgid "This is a list table with images in it."
+msgstr "这是一个包含图像的列表. "
+

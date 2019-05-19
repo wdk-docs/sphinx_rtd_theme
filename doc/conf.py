@@ -1,15 +1,13 @@
 # -*- coding: utf-8 -*-
 
+from sphinx_rtd_theme import __version__
+from sphinx.locale import _
 import sys
 import os
 import re
 
 sys.path.append(os.path.abspath('..'))
 sys.path.append(os.path.abspath('./demo/'))
-
-from sphinx.locale import _
-
-from sphinx_rtd_theme import __version__
 
 
 project = u'Read the Docs Sphinx Theme'
@@ -18,7 +16,10 @@ version = __version__
 release = __version__
 author = u'Dave Snider, Read the Docs, Inc. & contributors'
 copyright = author
-language = 'en'
+
+language = 'zh_CN'
+locale_dirs = ['locale/']
+gettext_compact = False
 
 extensions = [
     'sphinx.ext.intersphinx',
@@ -52,7 +53,7 @@ html_show_sourcelink = True
 htmlhelp_basename = slug
 
 latex_documents = [
-  ('index', '{0}.tex'.format(slug), project, author, 'manual'),
+    ('index', '{0}.tex'.format(slug), project, author, 'manual'),
 ]
 
 man_pages = [
@@ -60,7 +61,7 @@ man_pages = [
 ]
 
 texinfo_documents = [
-  ('index', slug, project, author, slug, project, 'Miscellaneous'),
+    ('index', slug, project, author, slug, project, 'Miscellaneous'),
 ]
 
 

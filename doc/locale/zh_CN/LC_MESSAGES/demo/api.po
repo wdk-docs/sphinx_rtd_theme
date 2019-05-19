@@ -1,0 +1,351 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Dave Snider, Read the Docs, Inc. & contributors
+# This file is distributed under the same license as the Read the Docs
+# Sphinx Theme package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Read the Docs Sphinx Theme 0.4.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-19 17:49+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../demo/api.rst:4
+msgid ":mod:`test_py_module`"
+msgstr ":mod:`test_py_module`"
+
+#: ../../demo/api.rst:6
+msgid "Table of Contents"
+msgstr "目录"
+
+#: of test_py_module.test:1
+msgid "Test Module for sphinx_rtd_theme."
+msgstr "sphinx_rtd_theme的测试模块. "
+
+#: of test_py_module.test.Foo:1
+msgid "Docstring for class Foo."
+msgstr "类Foo的Docstring. "
+
+#: of test_py_module.test.Foo:3
+msgid ""
+"This text tests for the formatting of docstrings generated from output "
+"``sphinx.ext.autodoc``. Which contain reST, but sphinx nests it in the "
+"``<dl>``, and ``<dt>`` tags. Also, ``<tt>`` is used for class, method "
+"names and etc, but those will *always* have the ``.descname`` or "
+"``.descclassname`` class."
+msgstr "本文测试输出 ``sphinx.ext.autodoc`` 生成的文档字符串的格式. 其中包含reST，但是sphinx将它嵌套在 ``<dl>`` 和 ``<dt>`` 标签中. 此外， ``<tt>`` 用于类，方法名称等，但那些 *总是* 具有 ``.descname`` 或 ``.descclassname`` 类. "
+
+#: of test_py_module.test.Foo:9
+msgid ""
+"Normal ``<tt>`` (like the <tt> I just wrote here) needs to be shown with "
+"the same style as anything else with ````this type of markup````."
+msgstr "正常的 ``<tt>`` (就像我刚刚写的<tt>)需要以与 ````这种类型的标记```` 相同的样式显示. "
+
+#: of test_py_module.test.Foo:12
+msgid ""
+"It's common for programmers to give a code example inside of their "
+"docstring::"
+msgstr "程序员在文档字符串中给出代码示例是很常见的::"
+
+#: of test_py_module.test.Foo:24
+msgid ""
+"Here is a link to :py:meth:`capitalize`. Here is a link to "
+":py:meth:`__init__`."
+msgstr "这是一个链接 :py:meth:`capitalize`. 这是一个链接 :py:meth:`__init__`. "
+
+#: of test_py_module.test.Foo.__init__:1
+msgid "Start the Foo."
+msgstr "启动Foo. "
+
+#: of test_py_module.test.Foo.__init__
+msgid "param qux"
+msgstr "param qux"
+
+#: of test_py_module.test.Foo.__init__:3
+msgid "The first argument to initialize class."
+msgstr "初始化类的第一个参数. "
+
+#: of test_py_module.test.Foo.__init__
+msgid "type qux"
+msgstr "type qux"
+
+#: of test_py_module.test.Foo.__init__:4 test_py_module.test.Foo.capitalize:4
+#: test_py_module.test.Foo.capitalize:5
+msgid "string"
+msgstr "串"
+
+#: of test_py_module.test.Foo.__init__
+msgid "param spam"
+msgstr "param spam"
+
+#: of test_py_module.test.Foo.__init__:5
+msgid "Spam me yes or no..."
+msgstr "垃圾邮件我是或否..."
+
+#: of test_py_module.test.Foo.__init__
+msgid "type spam"
+msgstr "打字垃圾邮件"
+
+#: of test_py_module.test.Foo.__init__:6
+msgid "bool"
+msgstr "布尔"
+
+#: of test_py_module.test.Foo.__weakref__:1
+msgid "list of weak references to the object (if defined)"
+msgstr "对象的弱引用列表(如果已定义)"
+
+#: of test_py_module.test.Foo.add:1
+msgid "Return the added values."
+msgstr "返回添加的值. "
+
+#: of test_py_module.test.Foo.add
+msgid "param val1"
+msgstr "param val1"
+
+#: of test_py_module.test.Foo.add:3
+msgid "First number to add."
+msgstr "要添加的第一个数字. "
+
+#: of test_py_module.test.Foo.add
+msgid "type val1"
+msgstr "type val1"
+
+#: of test_py_module.test.Foo.add:4 test_py_module.test.Foo.add:6
+#: test_py_module.test.Foo.add:7 test_py_module.test.Foo.another_function:4
+#: test_py_module.test.Foo.another_function:7
+msgid "int"
+msgstr "int"
+
+#: of test_py_module.test.Foo.add
+msgid "param val2"
+msgstr "param val2"
+
+#: of test_py_module.test.Foo.add:5
+msgid "Second number to add."
+msgstr "要添加的第二个数字. "
+
+#: of test_py_module.test.Foo.add
+msgid "type val2"
+msgstr "type val2"
+
+#: of test_py_module.test.Foo.add test_py_module.test.Foo.another_function
+#: test_py_module.test.Foo.capitalize
+msgid "rtype"
+msgstr "rtype"
+
+#: of test_py_module.test.Foo.another_function:1
+msgid "Here is another function."
+msgstr "要添加的第二个数字. "
+
+#: of test_py_module.test.Foo.another_function
+msgid "param a"
+msgstr "param a"
+
+#: of test_py_module.test.Foo.another_function:3
+msgid "The number of green hats you own."
+msgstr "你拥有的绿帽数量. "
+
+#: of test_py_module.test.Foo.another_function
+msgid "type a"
+msgstr "type a"
+
+#: of test_py_module.test.Foo.another_function
+msgid "param b"
+msgstr "param b"
+
+#: of test_py_module.test.Foo.another_function:6
+msgid "The number of non-green hats you own."
+msgstr "你拥有的非绿帽子的数量. "
+
+#: of test_py_module.test.Foo.another_function
+msgid "type b"
+msgstr "type b"
+
+#: of test_py_module.test.Foo.another_function
+msgid "param kwargs"
+msgstr "param kwargs"
+
+#: of test_py_module.test.Foo.another_function:9
+msgid ""
+"Additional keyword arguments. Each keyword parameter should specify the "
+"name of your favorite cuisine. The values should be floats, specifying "
+"the mean price of your favorite dish in that cooking style."
+msgstr "其他关键字参数. 每个关键字参数都应指定您喜欢的菜肴的名称. 值应为浮点数，指定您喜欢的菜肴的平均价格. "
+
+#: of test_py_module.test.Foo.another_function
+msgid "type kwargs"
+msgstr "键入kwargs"
+
+#: of test_py_module.test.Foo.another_function:13
+msgid "float"
+msgstr "浮动"
+
+#: of test_py_module.test.Foo.another_function
+msgid "returns"
+msgstr "回报"
+
+#: of test_py_module.test.Foo.another_function:15
+msgid ""
+"A 2-tuple.  The first element is the mean price of all dishes across "
+"cuisines.  The second element is the total number of hats you own: "
+":math:`a + b`."
+msgstr "一个2元组. 第一个元素是所有菜肴的平均价格. 第二个元素是你拥有的帽子总数 ::math:`a + b`. "
+
+#: of test_py_module.test.Foo.another_function:18
+msgid "tuple"
+msgstr "元组"
+
+#: of test_py_module.test.Foo.another_function
+msgid "raises ValueError"
+msgstr "引发ValueError"
+
+#: of test_py_module.test.Foo.another_function:20
+msgid "When ``a`` is not an integer."
+msgstr "当 ``a`` 不是整数时. "
+
+#: of test_py_module.test.Foo.another_function:22
+msgid "This was added in 1.0"
+msgstr "这是在1.0中添加的"
+
+#: of test_py_module.test.Foo.another_function:24
+msgid "This was changed in 2.0"
+msgstr "这在2.0中有所改变"
+
+#: of test_py_module.test.Foo.another_function:26
+msgid "This is deprecated since 3.0"
+msgstr "这是自3.0以来不推荐使用的"
+
+#: of test_py_module.test.Foo.bar:1
+msgid "Doc comment for class attribute Foo.bar. It can have multiple lines."
+msgstr "类属性Foo.bar的Doc注释. 它可以有多行. "
+
+#: of test_py_module.test.Foo.baz:1
+msgid "Docstring for class attribute Foo.baz."
+msgstr "类属性Foo.baz的Docstring. "
+
+#: of test_py_module.test.Foo.capitalize:1
+msgid "Return a string as uppercase."
+msgstr "将字符串返回为大写. "
+
+#: of test_py_module.test.Foo.capitalize
+msgid "param myvalue"
+msgstr "param myvalue"
+
+#: of test_py_module.test.Foo.capitalize:3
+msgid "String to change"
+msgstr "要更改的字符串"
+
+#: of test_py_module.test.Foo.capitalize
+msgid "type myvalue"
+msgstr "输入myvalue"
+
+#: of test_py_module.test.Foo.flox:1
+msgid "Doc comment for Foo.flox. One line only."
+msgstr "对Foo.flox的文章评论. 仅限一行. "
+
+#: of test_py_module.test.Foo.qux:1
+msgid "Doc comment for instance attribute qux."
+msgstr "例如属性文件注释是有限的. "
+
+#: of test_py_module.test.Foo.spam:1
+msgid "Docstring for instance attribute spam."
+msgstr "Docstring例如属性垃圾邮件. "
+
+#: ../../demo/api.rst:14
+msgid "Generated Index"
+msgstr "生成索引"
+
+#: ../../demo/api.rst:16
+msgid ""
+"Part of the sphinx build process in generate and index file: "
+":ref:`genindex`."
+msgstr "生成和索引文件中的部分sphinx构建过程: :ref:`genindex`. "
+
+#: ../../demo/api.rst:20
+msgid "Optional parameter args"
+msgstr "可选参数args"
+
+#: ../../demo/api.rst:22
+msgid ""
+"At this point optional parameters `cannot be generated from code`_. "
+"However, some projects will manually do it, like so:"
+msgstr "此时，无法从代码 `cannot be generated from code`_. 但是，有些项目会手动执行，如下所示:"
+
+#: ../../demo/api.rst:25
+msgid "This example comes from `django-payments module docs`_."
+msgstr "这个例子来自 `django-payments module docs`_. "
+
+#: ../../demo/api.rst:29
+msgid ""
+"This backend implements payments using a popular Polish gateway, "
+"`Dotpay.pl <http://www.dotpay.pl>`_."
+msgstr "这个后端使用流行的波兰网关 `Dotpay.pl <http://www.dotpay.pl>`_ 实现付款. "
+
+#: ../../demo/api.rst:31
+msgid ""
+"Due to API limitations there is no support for transferring purchased "
+"items."
+msgstr "由于API限制，不支持转移购买的商品. "
+
+#: ../../demo/api.rst
+msgid "param seller_id"
+msgstr "param seller_id"
+
+#: ../../demo/api.rst:34
+msgid "Seller ID assigned by Dotpay"
+msgstr "由Dotpay分配的卖家ID"
+
+#: ../../demo/api.rst
+msgid "param pin"
+msgstr "param pin"
+
+#: ../../demo/api.rst:35
+msgid "PIN assigned by Dotpay"
+msgstr "由Dotpay指定的PIN码"
+
+#: ../../demo/api.rst
+msgid "param channel"
+msgstr "参数通道"
+
+#: ../../demo/api.rst:36
+msgid "Default payment channel (consult reference guide)"
+msgstr "默认付款渠道(参考参考指南)"
+
+#: ../../demo/api.rst
+msgid "param lang"
+msgstr "param lang"
+
+#: ../../demo/api.rst:37
+msgid "UI language"
+msgstr “UI语言"
+
+#: ../../demo/api.rst
+msgid "param lock"
+msgstr "param lock"
+
+#: ../../demo/api.rst:38
+msgid "Whether to disable channels other than the default selected above"
+msgstr "是否禁用上面选择的默认频道以外的频道“"
+
+#: ../../demo/api.rst:45
+msgid "Data"
+msgstr "数据"
+
+#: ../../demo/api.rst:51
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce congue "
+"elit eu hendrerit mattis."
+msgstr "Lorem存有悲坐阿梅德，consectetur adipiscing ELIT. 临床规划局房地产开发商的足球. "
+
+#: ../../demo/api.rst:53
+msgid "Some data link :data:`Data_item_1`."
+msgstr "一些数据链接 :data:`Data_item_1`."
+

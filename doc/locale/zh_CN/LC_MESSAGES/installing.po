@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Dave Snider, Read the Docs, Inc. & contributors
+# This file is distributed under the same license as the Read the Docs
+# Sphinx Theme package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Read the Docs Sphinx Theme 0.4.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-19 17:49+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../installing.rst:4
+msgid "Installation"
+msgstr "安装"
+
+#: ../../installing.rst:7
+msgid "Via Python Package"
+msgstr "通过Python包"
+
+#: ../../installing.rst:9
+msgid "Install the package (or add it to your ``requirements.txt`` file):"
+msgstr "安装包（或将其添加到``requirements.txt``文件中）:"
+
+#: ../../installing.rst:15
+msgid "In your ``conf.py`` file:"
+msgstr "在你的``conf.py``文件中:"
+
+#: ../../installing.rst:22
+msgid "Via Git or Download"
+msgstr "通过Git或下载"
+
+#: ../../installing.rst:24
+msgid ""
+"Symlink or subtree the ``sphinx_rtd_theme/sphinx_rtd_theme`` repository "
+"into your documentation at ``docs/_themes/sphinx_rtd_theme`` then add the"
+" following two settings to your Sphinx ``conf.py`` file:"
+msgstr "将``sphinx_rtd_theme / sphinx_rtd_theme``存储库符号链接或子树化到文档“docs / _themes / sphinx_rtd_theme`”中，然后将以下两个设置添加到Sphinx``conf.py``文件中："
+

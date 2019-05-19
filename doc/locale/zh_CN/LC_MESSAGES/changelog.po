@@ -1,0 +1,397 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Dave Snider, Read the Docs, Inc. & contributors
+# This file is distributed under the same license as the Read the Docs
+# Sphinx Theme package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Read the Docs Sphinx Theme 0.4.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-19 17:49+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../changelog.rst:3
+msgid "Changelog"
+msgstr "更新日志"
+
+#: ../../changelog.rst:6
+msgid "master"
+msgstr "主"
+
+#: ../../changelog.rst:9 ../../changelog.rst:25 ../../changelog.rst:45
+#: ../../changelog.rst:65 ../../changelog.rst:85 ../../changelog.rst:118
+msgid "New Features"
+msgstr "新功能"
+
+#: ../../changelog.rst:12 ../../changelog.rst:28 ../../changelog.rst:48
+#: ../../changelog.rst:68 ../../changelog.rst:88 ../../changelog.rst:104
+#: ../../changelog.rst:130
+msgid "Fixes"
+msgstr "修复"
+
+#: ../../changelog.rst:15 ../../changelog.rst:37 ../../changelog.rst:54
+#: ../../changelog.rst:73 ../../changelog.rst:94 ../../changelog.rst:140
+msgid "Other Changes"
+msgstr "其他变化"
+
+#: ../../changelog.rst:17
+msgid "Add the ``navigation`` template block around the navigation area."
+msgstr "在导航区域周围添加“导航”模板块。"
+
+#: ../../changelog.rst:20
+msgid "0.4.3"
+msgstr "0.4.3"
+
+#: ../../changelog.rst
+msgid "Date"
+msgstr "Date"
+
+#: ../../changelog.rst:22
+msgid "Feb 12, 2019"
+msgstr "2019年2月12日"
+
+#: ../../changelog.rst:30
+msgid "Fix scrolling to active item in sidebar on load (#214)"
+msgstr "在加载时修复滚动到侧栏中的活动项目（＃214）"
+
+#: ../../changelog.rst:31
+msgid "Style caption link for code and literal blocks"
+msgstr "代码和文字块的样式标题链接"
+
+#: ../../changelog.rst:32
+msgid ""
+"Fix inconsistent font size and line height for autodoc \"raises\" and "
+"\"returns\" (#267)"
+msgstr ""
+
+#: ../../changelog.rst:33
+msgid "Fix last_updated notice appearing in same line as copyright notice (#704)"
+msgstr "修复last_updated通知出现在版权声明的同一行（＃704）"
+
+#: ../../changelog.rst:40
+msgid "v0.4.2"
+msgstr "v0.4.2"
+
+#: ../../changelog.rst:42
+msgid "Oct 5, 2018"
+msgstr "2018年10月5日"
+
+#: ../../changelog.rst:50
+msgid "Set base font size on <html> (#668)"
+msgstr "2018年10月5日"
+
+#: ../../changelog.rst:51
+msgid "Fix HTML search not working with Sphinx-1.8 (#672)"
+msgstr "修复HTML搜索无法使用Sphinx-1.8（＃672）"
+
+#: ../../changelog.rst:56
+msgid "Upload signed packages to PyPI with twine (#651)"
+msgstr "使用twine将签名包上传到PyPI（＃651）"
+
+#: ../../changelog.rst:57
+msgid "Do not enforce period at the end of copyright statement (666)"
+msgstr "在版权声明结束时不执行期限（666）"
+
+#: ../../changelog.rst:60
+msgid "v0.4.1"
+msgstr "v0.4.1"
+
+#: ../../changelog.rst:62
+msgid "July 27, 2018"
+msgstr "2018年7月27日"
+
+#: ../../changelog.rst:70
+msgid "Line height adjustments for Liberation Mono (#656)"
+msgstr "解放单声道线高度调整（＃656）"
+
+#: ../../changelog.rst:75
+msgid "Add Sphinx as a dependency"
+msgstr "添加Sphinx作为依赖项"
+
+#: ../../changelog.rst:78
+msgid "v0.4.0"
+msgstr "v0.4.0"
+
+#: ../../changelog.rst:80
+msgid ""
+"This version made some changes to how JS and CSS were included when the "
+"theme is used on Read the Docs."
+msgstr ""
+
+#: ../../changelog.rst:90
+msgid "Do not rely on readthedocs.org for CSS/JS (#614)"
+msgstr "不要依赖于readthedocs.org来获取CSS / JS（＃614）"
+
+#: ../../changelog.rst:91
+msgid "Color accessibility improvements on the left navigation"
+msgstr "左侧导航中的颜色辅助功能改进"
+
+#: ../../changelog.rst:96
+msgid "Write theme version and build date at top of JavaScript and CSS"
+msgstr "在JavaScript和CSS之上编写主题版本和构建日期"
+
+#: ../../changelog.rst:97
+msgid "Changed code and literals to use a native font stack (#612)"
+msgstr "更改了代码和文字以使用本机字体堆栈（＃612）"
+
+#: ../../changelog.rst:98
+msgid "Fix small styling issues"
+msgstr "修复小样式问题"
+
+#: ../../changelog.rst:101
+msgid "v0.3.1"
+msgstr "v0.3.1"
+
+#: ../../changelog.rst:106
+msgid "Revert part of #576 causing display issues with version selector menu"
+msgstr "恢复＃576的部分，导致版本选择器菜单出现显示问题"
+
+#: ../../changelog.rst:107
+msgid "Backwards compatibility fixes for pre-0.3.0 releases (#623)"
+msgstr "0.3.0之前版本的向后兼容性修复程序（＃623）"
+
+#: ../../changelog.rst:108
+msgid "Fix mkdocs version selector (#622)"
+msgstr "修复mkdocs版本选择器（＃622）"
+
+#: ../../changelog.rst:109
+msgid "Add open list spacing (#591)"
+msgstr "添加打开列表间距 (#591)"
+
+#: ../../changelog.rst:110
+msgid "Fix table centering (#599)"
+msgstr "修复表中心 (#599)"
+
+#: ../../changelog.rst:113
+msgid "v0.3.0"
+msgstr "v0.3.0"
+
+#: ../../changelog.rst:115
+msgid ""
+"**Note**: this version resulted in some JavaScript incompatibilities when"
+" used on readthedocs.org"
+msgstr ""
+
+#: ../../changelog.rst:120
+msgid "Add html language attribute"
+msgstr "添加html语言属性"
+
+#: ../../changelog.rst:121
+msgid "Allow setting 'rel' and 'title' attributes for stylesheets (#551)"
+msgstr "允许为样式表设置“rel”和“title”属性 (#551)"
+
+#: ../../changelog.rst:122
+msgid "Add option to style external links"
+msgstr "添加样式外部链接的选项"
+
+#: ../../changelog.rst:123
+msgid "Add github, gitlab, bitbucket page arguments option"
+msgstr "添加github，gitlab，bitbucket页面参数选项"
+
+#: ../../changelog.rst:124
+msgid "Add pygments support"
+msgstr "添加pygments支持"
+
+#: ../../changelog.rst:125
+msgid ""
+"Add setuptools entry point allowing to use ``sphinx_rtd_theme`` as Sphinx"
+" ``html_theme`` directly."
+msgstr ""
+
+#: ../../changelog.rst:127
+msgid "Add language to the JS output variable"
+msgstr "将语言添加到JS输出变量"
+
+#: ../../changelog.rst:132
+msgid "Fix some HTML warnings and errors"
+msgstr "修复一些HTML警告和错误"
+
+#: ../../changelog.rst:133
+msgid "Fix many styling issues"
+msgstr "修复了许多样式问题"
+
+#: ../../changelog.rst:134
+msgid "Fix many sidebar glitches"
+msgstr "修复了许多侧边栏故障"
+
+#: ../../changelog.rst:135
+msgid "Fix line number spacing to align with the code lines"
+msgstr "修复行号间距以与代码行对齐"
+
+#: ../../changelog.rst:136
+msgid "Hide Edit links on auto created pages"
+msgstr "隐藏自动创建页面上的编辑链接"
+
+#: ../../changelog.rst:137
+msgid "Include missing font files with the theme"
+msgstr "Include missing font files with the theme"
+
+#: ../../changelog.rst:142
+msgid "Significant improvement of our documentation"
+msgstr "Significant improvement of our documentation"
+
+#: ../../changelog.rst:143
+msgid "Compress our Javascript files"
+msgstr "Compress our Javascript files"
+
+#: ../../changelog.rst:144
+msgid "Updated dependencies"
+msgstr "Updated dependencies"
+
+#: ../../changelog.rst:147
+msgid "v0.2.4"
+msgstr "v0.2.4"
+
+#: ../../changelog.rst:149
+msgid ""
+"Yet another patch to deal with extra builders outside Spinx, such as the "
+"singlehtml builders from the Read the Docs Sphinx extension"
+msgstr ""
+
+#: ../../changelog.rst:153
+msgid "v0.2.3"
+msgstr "v0.2.3"
+
+#: ../../changelog.rst:155
+msgid ""
+"Temporarily patch Sphinx issue with ``singlehtml`` builder by inspecting "
+"the builder in template."
+msgstr ""
+
+#: ../../changelog.rst:159
+msgid "v0.2.2"
+msgstr "v0.2.2"
+
+#: ../../changelog.rst:161
+msgid ""
+"Roll back toctree fix in 0.2.1 (#367). This didn't fix the issue and "
+"introduced another bug with toctrees display."
+msgstr ""
+
+#: ../../changelog.rst:165
+msgid "v0.2.1"
+msgstr "v0.2.1"
+
+#: ../../changelog.rst:167
+msgid ""
+"Add the ``rel`` HTML attribute to the footer links which point to the "
+"previous and next pages."
+msgstr ""
+
+#: ../../changelog.rst:169
+msgid "Fix toctree issue caused by Sphinx singlehtml builder (#367)"
+msgstr "Fix toctree issue caused by Sphinx singlehtml builder (#367)"
+
+#: ../../changelog.rst:172
+msgid "v0.2.0"
+msgstr "v0.2.0"
+
+#: ../../changelog.rst:174
+msgid "Adds the ``comments`` block after the ``body`` block in the template"
+msgstr "Adds the ``comments`` block after the ``body`` block in the template"
+
+#: ../../changelog.rst:175
+msgid "Added \"Edit on GitLab\" support"
+msgstr "Added \"Edit on GitLab\" support"
+
+#: ../../changelog.rst:176
+msgid "Many bug fixes"
+msgstr "Many bug fixes"
+
+#: ../../changelog.rst:179
+msgid "v0.1.10-alpha"
+msgstr "v0.1.10-alpha"
+
+#: ../../changelog.rst:181
+msgid "This is a pre-release version"
+msgstr "This is a pre-release version"
+
+#: ../../changelog.rst:183
+msgid "Removes Sphinx dependency"
+msgstr "Removes Sphinx dependency"
+
+#: ../../changelog.rst:184
+msgid "Fixes hamburger on mobile display"
+msgstr "Fixes hamburger on mobile display"
+
+#: ../../changelog.rst:185
+msgid "Adds a ``body_begin`` block to the template"
+msgstr "Adds a ``body_begin`` block to the template"
+
+#: ../../changelog.rst:186
+msgid "Added ``prev_next_buttons_location``"
+msgstr "Added ``prev_next_buttons_location``"
+
+#: ../../changelog.rst:189
+msgid "v0.1.9"
+msgstr "v0.1.9"
+
+#: ../../changelog.rst:191
+msgid ""
+"Intermittent scrollbar visibility bug fixed. This change introduces a "
+"backwards incompatible change to the theme's layout HTML. This should "
+"only be a problem for derivative themes that have overridden styling of "
+"nav elements using direct descendant selectors. See `#215`_ for more "
+"information."
+msgstr ""
+
+#: ../../changelog.rst:195
+msgid "Safari overscroll bug fixed"
+msgstr "Safari overscroll bug fixed"
+
+#: ../../changelog.rst:196
+msgid "Version added to the nav header"
+msgstr "Version added to the nav header"
+
+#: ../../changelog.rst:197
+msgid "Revision id was added to the documentation footer if you are using RTD"
+msgstr "Revision id was added to the documentation footer if you are using RTD"
+
+#: ../../changelog.rst:198
+msgid ""
+"An extra block, ``extrafooter`` was added to allow extra content in the "
+"document footer block"
+msgstr ""
+
+#: ../../changelog.rst:200
+msgid "Fixed modernizr URL"
+msgstr "Fixed modernizr URL"
+
+#: ../../changelog.rst:201
+msgid ""
+"Small display style changes on code blocks, figure captions, and nav "
+"elements"
+msgstr ""
+
+#: ../../changelog.rst:206
+msgid "v0.1.8"
+msgstr "v0.1.8"
+
+#: ../../changelog.rst:208
+msgid "Start keeping changelog :)"
+msgstr "Start keeping changelog :)"
+
+#: ../../changelog.rst:209
+msgid "Support for third and fourth level headers in the sidebar"
+msgstr "Support for third and fourth level headers in the sidebar"
+
+#: ../../changelog.rst:210
+msgid "Add support for Sphinx 1.3"
+msgstr "Add support for Sphinx 1.3"
+
+#: ../../changelog.rst:211
+msgid "Add sidebar headers for :caption: in Sphinx toctree"
+msgstr "Add sidebar headers for :caption: in Sphinx toctree"
+
+#: ../../changelog.rst:212
+msgid "Clean up sidebar scrolling behavior so it never scrolls out of view"
+msgstr "Clean up sidebar scrolling behavior so it never scrolls out of view"
+
